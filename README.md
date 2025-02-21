@@ -13,19 +13,4 @@ The goal for this is to demonstrate some simple best practice examples for Selen
 7. Use Assertions for Validations - (LoginSteps.java#59,64)
 
 ### Project Structure
-selenium-best-practices/
-│── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   ├── pages/               # Page Object Model (POM) classes
-│   ├── test/
-│   │   ├── java/
-│   │   │   ├── tests/               # TestNG test classes
-│   │   │   ├── stepDefinitions/     # Cucumber step definitions
-│   │   │   ├── runners/             # Cucumber TestNG runner classes
-│   ├── resources/
-│   │   ├── features/                # Cucumber feature files
-│   │   ├── testng.xml               # TestNG suite configuration
-│── pom.xml                          # Maven dependencies
-│── .gitignore                       # Git ignore
-│── README.md                        # Project documentation
+<img width="555" alt="Screen Shot 2025-02-21 at 1 27 32 PM" src="https://github.com/user-attachments/assets/df5558b7-80e2-43f3-9379-961c9d07583b" />
