@@ -1,4 +1,4 @@
-# Best Practices to Improve Your Selenium / Cucumber / TestNG Project
+# Some Simple Practices to Improve Your Selenium / Cucumber / TestNG Project
 
 ## Summary
 The goal for this is to demonstrate some simple best practice examples for Selenium / Cucumber / TestNG
